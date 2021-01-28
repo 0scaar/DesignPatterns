@@ -16,6 +16,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\AbstractFactoryPattern\AbstractFactoryPattern.csproj" />
+    <ProjectReference Include="..\BuilderPattern\BuilderPattern.csproj" />
     <ProjectReference Include="..\FactoryMethodPattern\FactoryMethodPattern.csproj" />
   </ItemGroup>
 
